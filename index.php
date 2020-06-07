@@ -37,7 +37,7 @@ and open the template in the editor.
         <div class="table-responsive">
             <div id="horario_estudo">
                 <table class="table-dark table table-bordered table-striped table-hover">
-                    <caption>Conograma de estudos</caption>
+                    <caption><h6>Conograma de estudos<h6></caption>
                     <thead>
                         <tr>
                             <th>Horarios</th>
